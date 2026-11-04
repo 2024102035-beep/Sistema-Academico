@@ -1,0 +1,3 @@
+REQUISITOS DEL SISTEMA
+RF-01: El sistema debe permitir registrar la matricula de un estudiante.
+RF-02: El sistema debe almacenar el codigo, nombre y periodo academico.

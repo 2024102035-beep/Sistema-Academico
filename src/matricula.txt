@@ -1,0 +1,3 @@
+SISTEMA DE REGISTRO DE MATRICULA
+El sistema permite registrar los datos del estudiante y su matricula.
+Datos: codigo de estudiante, nombre y periodo academico.
