@@ -3,3 +3,6 @@ El sistema permite registrar los datos del estudiante y su matricula.
 Datos: codigo de estudiante, nombre y periodo academico.
 Validacion de prerrequisitos:
 Antes de registrar la matricula, el sistema verifica que el estudiante cumpla los prerrequisitos de las asignaturas.
+
+Validacion de matriculas duplicadas:
+Antes de guardar una matricula, el sistema verifica si el estudiante ya tiene una matricula registrada en el mismo periodo academico. Si existe, se rechaza el registro duplicado.
